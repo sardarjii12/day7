@@ -1,5 +1,8 @@
 // let mydate = new Date
-// console.log(mydate.toString)
+// console.log(mydat+
+
+
+
 // // console.log(mydate.toDateString)
 // // console.log(mydate.toDateString)
 // console.log(mydate)
@@ -42,7 +45,13 @@
 // console.log(myclass);
 // console.log(newclass);
 // console.log(neclass1)
-const a_Arry = [1, 2, 3, [5, 6, 7], 8, 9,[5, 6, 8, [7, 5, 6,]]]
-let  b_eArry = a_Arry.flat(isFinite)
-// console.log(a_Arry);
-console.log(b_eArry);
+// const a_Arry = [1, 2, 3, [5, 6, 7], 8, 9,[5, 6, 8, [7, 5, 6,]]]
+// let  b_eArry = a_Arry.flat(isFinite)
+// // console.log(a_Arry);
+// console.log(b_eArry);
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
